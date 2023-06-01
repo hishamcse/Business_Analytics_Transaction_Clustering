@@ -1,0 +1,56 @@
+,narrations,tokens,test_labels,kmeans_cluster,minibatch_cluster
+0,Cash Withdrawal From A/C No.: ,"['cash', 'withdrawal']",1,5,9
+1,"Cash withdraw from Micro Merchant point, MM A/C ","['cash', 'withdraw', 'micro', 'merchant']",9,6,5
+2,Credit Against Merchant Cash Withdraw Service From A/C-,"['credit', 'merchant', 'cash', 'withdraw']",9,0,0
+3,"Cash withdraw from Micro Merchant point, MM A/C ","['cash', 'withdraw', 'micro', 'merchant']",9,6,5
+4,Credit Against Merchant Cash Withdraw Service From A/C-,"['credit', 'merchant', 'cash', 'withdraw']",9,0,0
+5,Cash Deposit to A/C No.: ,"['cash', 'deposit']",2,3,3
+6,Cash Deposit,"['cash', 'deposit']",2,3,3
+7,Cash Deposit to A/C No.: ,"['cash', 'deposit']",2,3,3
+8,Credit Against Merchant Purchase Payment Service From A/C-,"['credit', 'merchant', 'purchase', 'payment']",10,10,12
+9,"Cash withdraw from Micro Merchant point, MM A/C ","['cash', 'withdraw', 'micro', 'merchant']",9,6,5
+10,Credit Against Merchant Cash Withdraw Service From A/C-,"['credit', 'merchant', 'cash', 'withdraw']",9,0,0
+11,Debit For New ATM Card Charge.,"['debit', 'new', 'card', 'charge']",3,2,1
+12,Cash Withdraw,"['cash', 'withdraw']",1,7,11
+13,Debit Against Palli Bidyut Bill Collection. ,"['debit', 'bill', 'collection']",4,2,1
+14,Agri agent commission of a/c ,"['agent', 'commission']",5,1,2
+15,"Cash withdraw from Micro Merchant point, MM A/C ","['cash', 'withdraw', 'micro', 'merchant']",9,6,5
+16,Credit Against Merchant Cash Withdraw Service From A/C-,"['credit', 'merchant', 'cash', 'withdraw']",9,0,0
+17,Cash Deposit to A/C No.: ,"['cash', 'deposit']",2,3,3
+18,Cash Deposit,"['cash', 'deposit']",2,3,3
+19,Inter Agent Cash Withdraw,"['inter', 'agent', 'cash', 'withdraw']",1,9,8
+20,Cash Withdrawal From A/C No.: ,"['cash', 'withdrawal']",1,5,9
+21,Agri agent commission of a/c ,"['agent', 'commission']",5,1,2
+22,Debit Against Palli Bidyut Bill Collection. ,"['debit', 'bill', 'collection']",4,2,1
+23,Inter Agent Cash Withdraw,"['inter', 'agent', 'cash', 'withdraw']",1,9,8
+24,Cash Withdrawal From A/C No.: ,"['cash', 'withdrawal']",1,5,9
+25,Debit Against Debit Card Transaction,"['debit', 'debit', 'card', 'transaction']",6,2,1
+26,Credit Against Merchant Cash Withdraw Service From A/C-,"['credit', 'merchant', 'cash', 'withdraw']",9,0,0
+27,Credit Against Merchant Cash Withdraw Service From A/C-,"['credit', 'merchant', 'cash', 'withdraw']",9,0,0
+28,Cash Withdrawal: Social Safety Net Payment,"['cash', 'withdrawal', 'social', 'safety', 'net', 'payment']",1,13,4
+29,Project (Social Safety Net Payment) Payment to A/C: ,"['project', 'social', 'safety', 'net', 'payment', 'payment']",11,4,6
+30,Cash Withdraw,"['cash', 'withdraw']",1,7,11
+31,Cash Withdrawal From A/C No.: ,"['cash', 'withdrawal']",1,5,9
+32,Cash Deposit to A/C No.: ,"['cash', 'deposit']",2,3,3
+33,Cash Deposit,"['cash', 'deposit']",2,3,3
+34,Debit Against Palli Bidyut Bill Collection. ,"['debit', 'bill', 'collection']",4,2,1
+35,Inter Agent Cash Withdraw,"['inter', 'agent', 'cash', 'withdraw']",1,9,8
+36,Cash Withdrawal From A/C No.: ,"['cash', 'withdrawal']",1,5,9
+37,"Cash withdraw from Micro Merchant point, MM A/C ","['cash', 'withdraw', 'micro', 'merchant']",9,6,5
+38,Credit Against Merchant Cash Withdraw Service From A/C-,"['credit', 'merchant', 'cash', 'withdraw']",9,0,0
+39,"Cash withdraw from Micro Merchant point, MM A/C ","['cash', 'withdraw', 'micro', 'merchant']",9,6,5
+40,Credit Against Merchant Cash Withdraw Service From A/C-,"['credit', 'merchant', 'cash', 'withdraw']",9,0,0
+41,Cash Deposit to A/C No.: ,"['cash', 'deposit']",2,3,3
+42,Cash Deposit,"['cash', 'deposit']",2,3,3
+43,Inter Agent Cash Withdraw,"['inter', 'agent', 'cash', 'withdraw']",1,9,8
+44,CIB Charge & VAT of  ,"['cib', 'charge', 'vat']",12,11,10
+45,"Purchase Payment From Micro Merchant Point, MM A/C ","['purchase', 'payment', 'micro', 'merchant']",10,12,5
+46,Agent Balance Transfer,"['agent', 'balance', 'transfer']",13,1,2
+47,Debit Against Company Fund Collection (MetLife Alico),"['debit', 'company', 'fund', 'collection']",7,2,1
+48,Project (Social Safety Net Payment) Payment to A/C: ,"['project', 'social', 'safety', 'net', 'payment', 'payment']",7,4,6
+49,Debit Against Debit Card Transaction,"['debit', 'debit', 'card', 'transaction']",6,2,1
+50,Agent Balance Transfer From Islamic To Conventional,"['agent', 'balance', 'transfer', 'conventional']",13,1,2
+51,"Credit For Remittance Pay, Remit No:TF Of  TF","['credit', 'remittance', 'pay', 'remit']",8,8,7
+52,DPS Takeover Payment From A/C No.: ,['payment'],14,4,6
+53,AGRI Agent Commission of ,"['agent', 'commission']",5,1,2
+54,Transfer to bKash wallet ,"['transfer', 'bkash', 'wallet']",13,11,10
