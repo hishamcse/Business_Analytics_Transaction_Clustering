@@ -69,7 +69,7 @@
 ## Sample Predicted Output<a name="predict"></a>
    If the command runs successfully, it will create a new csv file like <b>"test_kmeans_result.csv"</b> which will have the output something like this-
    <p align="center">
-    <img width="200px"
+    <img
       style="border-radius:50%" src="https://github.com/hishamcse/Business_Analytics_Transaction_Clustering/blob/main/images/sample_output.png"  alt="sample"/>
    </p>
 
