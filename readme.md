@@ -9,7 +9,7 @@
       * [Dataset results](#r5)
    * [How to run and test locally](#configure)
    * [Sample Predicted Output](#predict)
-   * [Notebook Flow](#notebook)
+   * [Project Flow](#notebook)
 
 
 
@@ -70,7 +70,32 @@
    If the command runs successfully, it will create a new csv file like <b>"test_kmeans_result.csv"</b> which will have the output something like this-
    <p align="center">
     <img width="200px"
-      style="border-radius:50%" src="https://github.com/hishamcse/Business_Analytics_Transaction_Clustering/tree/main/images/sample_output.png"  alt="sample"/>
+      style="border-radius:50%" src="https://github.com/hishamcse/Business_Analytics_Transaction_Clustering/blob/main/images/sample_output.png"  alt="sample"/>
    </p>
 
+
+## Project Flow<a name="notebook"></a>
+
+   * Load and read Dataset
+   * Drop Duplicates Narrations
+   * Text Cleaning
+
+     * lowercasing
+     * special character and punctuation removal
+     * stop words removal
+     * tokenization
+     * stemming (doesnot give good result, so ignored)
+     * lemmatization
+     * non-english word and named entity removal (spacy takes a healthy amount of time, that's why manual calculation added)
+     * empty narrations removal
+
+   * Text Exploratory Analysis (frequency barchart)
+   * Featured Engineering (Gensim Word2Vec vectorization model)
+   * Build clustering models
+
+      * KMeans Clustering
+      * Minibatch KMeans Clustering
+      * Bisecting KMeans Clustering
+   * Frequency Plot Per Cluster and Finding Keywords
+   * Prediction on new data
 
