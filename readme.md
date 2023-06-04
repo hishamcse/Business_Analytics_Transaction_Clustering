@@ -35,7 +35,7 @@
    The test script to test the models [test_script.py](https://github.com/hishamcse/Business_Analytics_Transaction_Clustering/blob/main/test_script.py). This will predict the clustering using the trained model. More on how to run this in the later section
 
 ### Dataset Results<a name="r5"></a>
-   The results on the original unique relevant dataset and given labeled small dataset added in the [dataset_results](https://github.com/hishamcse/Business_Analytics_Transaction_Clustering/tree/main/dataset_results) folder
+   The results on the given labeled small dataset added in the [dataset_results](https://github.com/hishamcse/Business_Analytics_Transaction_Clustering/tree/main/dataset_results) folder. The dataset results done on 25 lakhs data can be found [here](https://drive.google.com/file/d/1YHIdg6M8olq4xPPsnxCGGzPFpJeaWU83/view?usp=sharing)
 
 
 
